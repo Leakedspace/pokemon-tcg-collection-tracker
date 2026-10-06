@@ -1,0 +1,14 @@
+# Generated application data
+api_data/
+user_data/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code local settings
+.vscode/
