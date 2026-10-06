@@ -37,16 +37,6 @@ After loading a collection, the collection menu allows the user to:
 
 ## Project structure
 
-
-KIT101_assingment_2/
-├── pokemon_tracker.py
-├── pokemon_api.py
-├── collection.py
-├── storage.py
-├── GENAI_DISCLOSURE.md
-├── api_data/
-└── user_data/
-
 - `pokemon_tracker.py` contains the main menu and collection menu.
 - `pokemon_api.py` retrieves set and card data from the TCGdex API and saves card data locally.
 - `collection.py` manages owned and missing cards and calculates collection completion.
